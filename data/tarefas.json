@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Entender requisição GET com fetch",
+    "responsavel": "Aluno 1"
+  },
+  {
+    "id": 2,
+    "titulo": "Renderizar array na tabela via DOM",
+    "responsavel": "Aluno 2"
+  },
+  {
+    "id": 3
+    ,
+    "titulo": "Renderizar array na tabela via DOM",
+    "responsavel": "Aluno 2"
+  }
+]

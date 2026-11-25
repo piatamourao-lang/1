@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  margin: 24px;
+}
+
+button {
+  padding: 6px 12px;
+}
+
+table {
+  margin-top: 12px;
+  width: 100%;
+  max-width: 650px;
+}

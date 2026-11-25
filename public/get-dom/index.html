@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>GET + DOM - Next.js</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <h1>Lista de Tarefas (GET)</h1>
+
+  <button type="button" id="btn-atualizar">Buscar tarefas</button>
+  <p id="mensagem"></p>
+
+  <table border="1" cellpadding="6" cellspacing="0">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Título</th>
+        <th>Responsável</th>
+      </tr>
+    </thead>
+    <tbody id="tabela-corpo"></tbody>
+  </table>
+
+  <script src="./app.js"></script>
+</body>
+</html>
